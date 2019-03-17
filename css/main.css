@@ -1,0 +1,43 @@
+h1{
+    color: #FFBE26;
+}
+
+h4{
+    color: #266AC2;
+}
+
+.subtitulo{
+    color: #FF2724;
+}
+
+#intro-button{
+    background-color: #FF2724;
+}
+
+.btn.btn-lily {
+    background: linear-gradient(40deg, rgba(38,106,194), rgba(255,39,36,.7));
+  }
+
+h2{
+    padding-top: 3rem;
+    color: #266AC2;
+}
+html {
+    scroll-behavior: smooth;
+  }
+#folclor{
+    background-color: #F0F2EF;
+}
+
+p{
+    color: black;
+    font-size: 1.5rem;
+}
+
+.card-body{
+    background-color: #F0F2EF;
+}
+
+.card-text{
+    color: black !important;
+}
