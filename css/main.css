@@ -19,14 +19,14 @@ h4{
   }
 
 h2{
-    padding-top: 3rem;
     color: #266AC2;
-    margin-top: 3rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
 }
 html {
     scroll-behavior: smooth;
   }
-#folclor{
+#folclor, #deportes{
     background-color: #F0F2EF;
 }
 
@@ -41,4 +41,17 @@ p{
 
 .card-text{
     color: black !important;
+}
+#intro, .card{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.sport-text{
+    font-size: 1rem;
+}
+.sport-title{
+    color: black;
+}
+#deportes{
+    margin-bottom: 3rem;
 }
