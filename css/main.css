@@ -12,6 +12,8 @@ h4{
 
 #intro-button{
     background-color: #FF2724;
+    justify-content: center !important;
+    border-radius: 25px;
 }
 
 .btn.btn-lily {
@@ -52,6 +54,9 @@ p{
 .sport-title{
     color: black;
 }
-#deportes{
-    margin-bottom: 3rem;
+#deportes, #alegria{
+    margin-bottom: 7rem;
+}
+.alegria-image{
+    margin-top: 1rem;
 }
